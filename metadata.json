@@ -1,0 +1,6 @@
+{
+  "name": "Football Match Lineup Graphic",
+  "description": "Professional football match lineup graphic inspired by Sofascore, featuring dual-team pitch-based formations with exact player ratings and shirt numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
